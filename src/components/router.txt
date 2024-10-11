@@ -1,0 +1,10 @@
+React Router is used to implement routing in React applications.
+
+Components of Routes
+1)<BrowserRouter>
+    stores the current location in the browser's address bar using clean URLs and navigates using the browser's built-in history stack
+    Uses the HTML5 history API to keep your UI in sync with the URL.
+2)<HashRouter>
+
+
+useNavigate hook is used to navigate programatically
